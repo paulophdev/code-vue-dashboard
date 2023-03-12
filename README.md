@@ -1,5 +1,7 @@
 # Code-Vue-Dashboard
 
+**Preview on [Code-Vue-Dashboard](https://coruscating-alfajores-60dc3f.netlify.app/)**
+
 ### foi utilizado nesse projeto:
 
 Veja [Tailwind CSS](https://tailwindcss.com/)
