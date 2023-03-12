@@ -1,11 +1,11 @@
-# Core-Vue-Dashboard
+# Code-Vue-Dashboard
 
 ### foi utilizado nesse projeto:
 
 Veja [Tailwind CSS](https://tailwindcss.com/)
 e também [Tailwind-Elements](https://tailwind-elements.com/)
 
-!["Core-Vue-Dashboard"](https://i.imgur.com/GqYHdis.png "Core-Vue-Dashboard")
+!["Code-Vue-Dashboard"](https://i.imgur.com/GqYHdis.png "Code-Vue-Dashboard")
 
 ## Project setup
 
